@@ -36,19 +36,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### 📲 Apps I've built
-
-| App | What it does | Stores |
-| --- | --- | --- |
-| **DO4YOU** | On-demand home services booking in Bangkok | [iOS](https://apps.apple.com/us/app/do4you-life-made-easier/id1640589489) · [Android](https://play.google.com/store/apps/details?id=com.do4you.do4you2) |
-| **findZen** | Nail & massage booking marketplace in Singapore | [iOS](https://apps.apple.com/sg/app/findzen/id6738472389) · [Android](https://play.google.com/store/apps/details?id=com.findzen.customer) |
-| **findZen Merchant** | Booking management for shops, multi-user | [iOS](https://apps.apple.com/vn/app/findzen-merchant/id6738403108) · [Android](https://play.google.com/store/apps/details?id=com.findzen.merchantapp) |
-| **SAFEGRO** | Food safety & product traceability (Canada-funded) | [iOS](https://apps.apple.com/vn/app/safegro-v%C3%AC-an-to%C3%A0n-th%E1%BB%B1c-ph%E1%BA%A9m/id6739825990) |
-| **Bình Điền Market** | Traceability for Vietnam's largest wholesale market | [iOS](https://apps.apple.com/vn/app/b%C3%ACnh-%C4%91i%E1%BB%81n-market/id6743074877) · [Android](https://play.google.com/store/apps/details?id=com.chobinhdien) |
-| **Linh Hương Rubber** | GIS farm management for EUDR compliance | [iOS](https://apps.apple.com/vn/app/linh-h%C6%B0%C6%A1ng-rubber/id6749849042) |
-
-➡️ More in my [portfolio](https://thinhnguyenportfolio.netlify.app/).
-
 ### 📊 GitHub stats
 
 <p>
