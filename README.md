@@ -39,6 +39,6 @@
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1thinhnguyxn&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thinhnguyxn&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1thinhnguyxn&theme=default" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=1thinhnguyxn&hide_border=true" alt="GitHub streak"/>
 </p>
